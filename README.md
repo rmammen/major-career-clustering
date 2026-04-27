@@ -1,6 +1,6 @@
 # Major → Career: Clustering College Majors by Alignment
 
-**INST414 — Data Science Techniques | Assignment 4**
+**INST414 - Data Science Techniques | Assignment 4**
 
 ## Research Question
 
@@ -151,19 +151,3 @@ df["cluster"] = km.fit_predict(X_scaled)
 - Median earnings obscure within-major variance
 - Race, gender, and socioeconomic factors are absent from the analysis
 - K-Means assumes spherical clusters; agglomerative clustering may reveal finer structure
-
----
-
-## Medium Post
-
-Full writeup published at: **[LINK TO YOUR MEDIUM POST]**  
-Tag: `inst414spr26a04`
-
----
-
-## Author
-
-[Your Name]  
-Sociology & Information Science  
-University of Maryland  
-INST414 — Spring 2026
