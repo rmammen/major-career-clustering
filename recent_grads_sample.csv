@@ -1,0 +1,66 @@
+Major,Major_category,Total,Median,Unemployment_rate,Full_time_year_round,College_jobs,Non_college_jobs,Low_wage_jobs
+Petroleum Engineering,Engineering,2339,110000,0.018,1941,1988,118,233
+Mining And Mineral Engineering,Engineering,756,75000,0.071,619,544,122,90
+Metallurgical Engineering,Engineering,856,73000,0.024,701,616,121,119
+Naval Architecture And Marine Engineering,Engineering,1258,70000,0.05,1031,1031,26,201
+Chemical Engineering,Engineering,32260,65000,0.061,27098,26453,2259,3548
+Nuclear Engineering,Engineering,2573,65000,0.022,2187,2058,207,308
+Actuarial Science,Business,3777,62000,0.095,3134,3097,152,528
+Astronomy And Astrophysics,Physical Sciences,1792,62000,0.021,1290,1254,198,340
+Mechanical Engineering,Engineering,91227,60000,0.057,77542,71157,13685,6385
+Electrical Engineering,Engineering,81527,60000,0.059,69297,63591,13045,4891
+Computer Engineering,Engineering,41542,58000,0.071,34479,31987,6232,3323
+Aerospace Engineering,Engineering,15058,60000,0.059,12648,11745,1808,1505
+Biomedical Engineering,Engineering,14955,60000,0.067,12263,11964,1496,1495
+Materials Science,Engineering,4279,62000,0.082,3508,3380,429,470
+Engineering Mechanics Physics And Science,Engineering,4321,58000,0.067,3543,3413,476,432
+Computer Science,Computers & Mathematics,128319,53000,0.063,105221,89823,30797,7699
+Food Science,Agriculture & Natural Resources,4361,53000,0.085,3401,2965,830,566
+Electrical Engineering Technology,Engineering,11565,52000,0.062,9252,7170,2545,1850
+Medical Technologies Technicians,Health,15914,51000,0.065,13049,12412,2070,1432
+Operations Logistics And E-Commerce,Business,11732,51000,0.087,9502,7977,2230,1525
+Nursing,Health,209394,48000,0.044,188454,175890,27223,6281
+Finance,Business,174506,47500,0.06,144839,109938,50608,13960
+Economics,Business,195351,48000,0.074,156280,103536,64466,27349
+Business Administration And Management,Business,226476,46000,0.072,185710,113238,86061,27177
+Accounting,Business,198633,45000,0.059,166851,131097,53632,13904
+Marketing And Marketing Research,Business,212996,44000,0.081,174656,110757,76680,25559
+Management Information Systems And Statistics,Business,18713,48000,0.076,15531,13473,3556,1684
+Communications,Communications & Journalism,213996,40000,0.072,166916,104858,85599,23539
+Journalism,Communications & Journalism,72619,38000,0.079,55916,36309,27596,8714
+Advertising And Public Relations,Communications & Journalism,52824,38000,0.094,41730,25355,20602,6867
+Communication Technologies,Communications & Journalism,18035,35000,0.068,13886,8115,7396,2524
+English Language And Literature,Humanities & Liberal Arts,194673,40000,0.087,147951,77869,91497,25307
+Liberal Arts,Humanities & Liberal Arts,24947,38000,0.083,18460,9479,11726,3742
+History,Humanities & Liberal Arts,141951,38000,0.081,106463,49682,72396,19873
+Political Science And Government,Social Science,182621,40000,0.076,144270,102267,62092,18262
+Philosophy And Religious Studies,Humanities & Liberal Arts,45765,42000,0.091,35239,22882,16934,5949
+Sociology,Social Science,115433,37000,0.094,85420,49636,48483,17314
+Anthropology And Archeology,Social Science,13108,37000,0.079,9699,5767,5244,2097
+Fine Arts,Arts,116514,30000,0.122,82724,34954,54762,26798
+Studio Arts,Arts,14870,35000,0.124,10855,5204,6544,3122
+Music,Arts,60633,35000,0.075,43049,19402,27286,13945
+Drama And Theater Arts,Arts,43361,35000,0.099,31219,14309,19079,9973
+Visual And Performing Arts,Arts,16250,35000,0.108,11700,5362,6988,3900
+Film Video And Photographic Arts,Arts,21551,34000,0.077,15516,7327,9052,5172
+Art History And Criticism,Arts,14914,35000,0.09,11036,5070,5818,4026
+Psychology,Psychology & Social Work,490954,36000,0.083,363305,186562,220930,83462
+Social Work,Psychology & Social Work,52969,36000,0.091,38667,37078,11654,4237
+Biology,Biology & Life Science,280709,36000,0.081,204917,123511,123513,33685
+Biochemical Sciences,Biology & Life Science,39107,37000,0.063,28939,25028,8213,5866
+Neuroscience,Biology & Life Science,11165,37000,0.074,8262,6475,2792,1898
+Ecology,Biology & Life Science,13140,37000,0.057,9723,6701,4337,2102
+Environmental Science,Biology & Life Science,17674,34000,0.108,12725,6716,7777,3181
+Forestry,Agriculture & Natural Resources,18913,40000,0.061,14184,10591,5296,3026
+Public Administration,Law & Public Policy,40317,42000,0.076,30640,19755,13709,6853
+Criminal Justice And Fire Protection,Law & Public Policy,84487,38000,0.064,62520,36329,34641,13517
+Construction Services,Industrial Arts & Consumer Services,17459,38000,0.063,12745,9078,5413,2968
+Electrical And Mechanic Repairs And Technologies,Industrial Arts & Consumer Services,52844,40000,0.052,39104,29064,17439,6341
+Mathematics,Computers & Mathematics,164695,47000,0.068,128462,79053,59291,26351
+Statistics And Decision Science,Computers & Mathematics,81481,54000,0.065,65999,38296,30963,12222
+Applied Mathematics,Computers & Mathematics,121625,67000,0.046,99732,99732,17028,4865
+Pharmacology,Biology & Life Science,20010,38000,0.062,14607,12606,4803,2601
+General Medical And Health Services,Health,20948,38000,0.072,15711,11940,6076,2932
+Treatment Therapy Professions,Health,32596,35000,0.093,24447,18579,8476,5541
+Education,Education,258782,38000,0.068,186323,111276,103514,43992
+Early Childhood Education,Education,124458,35000,0.068,92098,53516,47295,23647
