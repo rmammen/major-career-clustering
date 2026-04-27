@@ -1,0 +1,5 @@
+,n_majors,avg_median_salary,avg_unemployment,avg_college_job_rate,avg_low_wage_rate
+Cluster 0: Credentialed Pipelines,71,34626.761,0.085,0.264,0.127
+Cluster 1: High-Earning STEM,33,41442.424,0.058,0.204,0.073
+Cluster 2: Vocational / Applied,31,58270.968,0.067,0.521,0.047
+Cluster 3: Misaligned / Precarious,37,34072.973,0.044,0.514,0.068
