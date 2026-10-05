@@ -16,7 +16,7 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/major-career-clustering.git
+git clone https://github.com/rmammen/major-career-clustering.git
 cd major-career-clustering
 ```
 
