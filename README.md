@@ -12,26 +12,6 @@
 
 ---
 
-## Project Structure
-
-```
-major-career-clustering/
-├── major_career_clustering.py   # Main analysis script
-├── medium_post.md               # Full Medium post draft
-├── data/
-│   └── recent_grads_sample.csv  # Local fallback dataset (65 majors)
-├── figures/
-│   ├── fig1_k_selection.png     # Elbow + Silhouette plots
-│   ├── fig2_pca_clusters.png    # PCA scatter of 4 clusters
-│   ├── fig3_cluster_heatmap.png # Feature profile heatmap
-│   ├── fig4_silhouette.png      # Silhouette analysis
-│   └── fig5_category_validation.png  # Cluster vs. Major category
-├── cluster_summary.csv          # Output: cluster means table
-└── README.md
-```
-
----
-
 ## Setup & Running
 
 ### 1. Clone the repo
