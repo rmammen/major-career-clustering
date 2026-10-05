@@ -259,7 +259,7 @@ plt.savefig("figures/fig5_category_validation.png", bbox_inches="tight")
 plt.show()
 print("Saved: figures/fig5_category_validation.png")
 
-# ── 13. SUMMARY TABLE ────────────────────────────────────────────────────────
+# Summary Table
 print("\n" + "="*65)
 print("FINAL CLUSTER SUMMARY TABLE")
 print("="*65)
